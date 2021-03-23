@@ -80,7 +80,7 @@ export default class MyFirstReactVR extends React.Component {
             transform: [{ translate: [0, 0, -3] }],
           }}
         >
-          Sports network.fi
+          Osgenic Demo
         </Text>
       </View>
     );
